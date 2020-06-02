@@ -8,4 +8,4 @@ dataset used: https://www.kaggle.com/crawford/deepsat-sat4
 
 Accuracy of the model is found to be 98.92999999999999
 
-Use kaggle notebook or jupyter noteboon with GPU integrated for faster image classification
+Use kaggle notebook or jupyter notebook with GPU integrated for faster image classification
