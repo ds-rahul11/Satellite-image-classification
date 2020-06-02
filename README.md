@@ -10,9 +10,9 @@ Accuracy of the model is found to be 98.92999999999999
 
 Use kaggle notebook or jupyter notebook with GPU integrated for faster image classification
 
-Mini project Implementation
-  1MS17CS025 D.S Rahul
-  1MS17CS053 M Chandan
-  1MS17CS056 Mahantesh Shivanand Shivakale
-  1MS17CS153 Harini K.R 
-    under guidance of Dr. Shilpa Chaudhari, Associate Professor at department of CSE, MSRIT
+Mini project Implementatio
+1MS17CS025 D.S Rahul
+1MS17CS053 M Chandan
+1MS17CS056 Mahantesh Shivanand Shivakale
+1MS17CS153 Harini K.R 
+under guidance of Dr. Shilpa Chaudhari, Associate Professor at department of CSE, MSRIT
